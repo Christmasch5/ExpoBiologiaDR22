@@ -1,0 +1,49 @@
+/*Primera linea*/
+.Catalogo{
+margin-left: 10%;
+margin-top: 50px;
+color: white;
+}
+.Contacto{
+margin-left: 10%;
+color: white;
+}
+.Nosotros{
+margin-left: 10%;
+color: white;
+}
+.Contenedor{
+background-color:cadetblue;
+width: 100%;
+}
+.Imagen{
+height: 75px;
+border-radius: 20px;
+margin-top: 10px;
+margin-left: 15px;
+}
+p{
+margin: 0px;
+width: fit-content;
+display: inline-block;
+font-size: 20px;
+}
+body{
+margin: 0;
+padding: 0;
+}
+.PN{
+color:black;
+margin-left: 15%;
+}
+.Contenedor2{
+background-color:cadetblue;
+width: 100%;
+}
+/*Imagen Grande*/
+.Imagen1{
+width: 100%;
+height: 335px;
+margin: 0;
+padding: 0;    
+}
